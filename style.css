@@ -10,3 +10,22 @@
 {
   color: #feca07;
 }
+.mg
+{
+  margin-left: 4%;
+}
+
+@media all and (max-width:320px){
+ .col-lg-12
+ {
+   margin:0;
+ }
+ .mg
+ {
+    padding:0;
+ }
+ .col-lg-6
+ {
+   margin: 5% 0%;
+ }
+}
