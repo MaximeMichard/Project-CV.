@@ -10,22 +10,9 @@
 {
   color: #feca07;
 }
-.mg
-{
-  margin-left: 4%;
-}
-
-@media all and (max-width:320px){
- .col-lg-12
- {
-   margin:0;
- }
- .mg
- {
-    padding:0;
- }
+@media all and (max-width:768px){
  .col-lg-6
  {
-   margin: 5% 0%;
+   margin: 2% 0%;
  }
 }
