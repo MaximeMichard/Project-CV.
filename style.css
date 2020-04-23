@@ -15,10 +15,7 @@
  {
    margin: 2% 0%;
  }
-}
-@media all and (max-width:425px)
-{
-  .col-lg-12
+ .col-lg-12
   {
     margin:0;
   }
